@@ -3,7 +3,7 @@
 session_start();
 
 $user = "root";
-$pass = "max2010max";
+$pass = "";
 $db = "pizzaria";
 $host = "localhost";
 
